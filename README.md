@@ -1,14 +1,17 @@
-# Expo Router Example
+# React Native BoilerPlate
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+This is a boilerplate code for React native app using expo.
 
-## 🚀 How to use
+## Features
 
-```sh
-npx create-expo-app -e with-router
-```
+The application has following features:
 
-## 📝 Notes
+- Expo
+- Expo Router
+- TailwindCSS
+- RTK Query
+- Redux
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+## Authors
+
+- [@Akhil Preet Singh](https://github.com/akhilpreet)
